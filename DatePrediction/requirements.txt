@@ -1,0 +1,10 @@
+wheel
+numpy
+scipy
+tensorflow
+tensorflow-gpu
+keras
+ipython
+jupyter
+six
+protobuf
